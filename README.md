@@ -33,7 +33,7 @@ This course provides a place for students to practice the necessary computationa
 | 2    | Fri: Oct 30  | Recitation [[Problems]](/files/recitation2.pdf) [[Solutions]](/files/recitation2_solns.pdf) |[Homework 2](files/F26_10607_HW2.pdf) due Sunday|
 | 3    | Mon: Nov 2  | Computational complexity [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_complexity.pdf)||
 | 3    | Wed: Nov 4  | __Quiz 1__ + Computational complexity [[Slides]](files/lecture_6.pptx) [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf) [[Quiz 1 Practice Problems]](/files/quiz1_practice.pdf) [[Solutions]](/files/quiz1_practice_sol.pdf) | |
-| 3    | Fri: Nov 6  | Recitation [[Problems]](/files/recitation3.pdf) [[Solutions]](/files/recitation3_solns.pdf) | Homework 3 due Sunday|
+| 3    | Fri: Nov 6  | Recitation [[Problems]](/files/recitation3.pdf) [[Solutions]](/files/recitation3_solns.pdf) | [Homework 3](files/F26_10607_HW3.pdf) due Sunday|
 | 4    | Mon: Nov 9  | Algorithms: recursion [[Slides]](files/lecture_7.pptx) [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
 | 4    | Wed: Nov 11  | Algorithms: dynamic programming [[Slides]](files/lecture_8.pptx) [[Notes]](files/notes_dp.pdf)||
 | 4    | Fri: Nov 13  | Recitation [[Problems]](/files/recitation4.pdf) [[Solutions]](/files/recitation4_solns.pdf) |Homework 4 Written and Homework 4 Programming due Sunday|
